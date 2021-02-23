@@ -10,8 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://azzam.page" />][website]
-[<img align="left" width="22px" src="https://www.linkedin.com/in/azzamabdulrahman/" />][linkedin]
+TBD
   
 <br />
 
