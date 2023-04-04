@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Hardware acceleration for optimized Deep Nueral Network  
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Become an expert in FPGA, DNN, Research techniques, and Publish two papers
+- 🥅 2023 Goals: Become an expert in FPGA, DNN, Computer Vision, Research techniques, and Publish two more papers
 - ⚡ Interest: Hardware design and software coding (HW/SW Co-design) 
 
 
